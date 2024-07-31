@@ -1,4 +1,4 @@
-This file is a base class meant to help you make a text based game by simply using python.
+The file is a base class meant to help you make a text based game by simply using python.
 
 It contains 5 functions with the names: inventory_update, print, make_options, make_par and run.
 
